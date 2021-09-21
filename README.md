@@ -8,7 +8,7 @@ App result:
 
 ![App result in chat](https://mmsharepoint.files.wordpress.com/2021/09/04meetingbotlifecyleactivities.png)
 
-For further details see the author's [blog post](https://wordpress.com/post/mmsharepoint.wordpress.com/)
+For further details see the author's [blog post](https://mmsharepoint.wordpress.com/2021/09/21/microsoft-teams-meeting-apps-lifecycle-basics/)
 
 ## Prerequisites
 
@@ -69,6 +69,7 @@ Version|Date|Author|Comments
     (Later the xxxxx will be exchanged by the real given random ngrok url received)
     - On the "Configuration" tab click "Manage" beside the Microsoft App ID and generate a new secret and note this down
     - Paste App ID and secret into you local .env file got from .env-sample
+    - For further explanation see [here](https://mmsharepoint.wordpress.com/2021/09/21/microsoft-teams-meeting-apps-lifecycle-basics/#botchannel)
 - Enable Teams Developer Preview in your client via <Your Account> | About | Developer Preview
 - Package the app
     ```bash
