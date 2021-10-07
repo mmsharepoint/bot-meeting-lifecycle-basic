@@ -36,13 +36,13 @@ Version|Date|Author|Comments
 ## Minimal Path to Awesome
 - Clone the repository
     ```bash
-    git clone https://github.com/mmsharepoint/
+    git clone https://github.com/mmsharepoint/bot-meeting-lifecycle-basic.git
     ```
 
-- In a console, navigate to `/tab-meeting-record-name`
+- In a console, navigate to `/bot-meeting-lifecycle-basic`
 
     ```bash
-    cd tab-meeting-record-name
+    cd bot-meeting-lifecycle-basic
     ```
 
 - Install modules
